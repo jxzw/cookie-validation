@@ -1,0 +1,6 @@
+google.com
+facebook.com
+yahoo.com
+reddit.com
+bing.com
+netflix.com
